@@ -67,7 +67,6 @@ module CLLVM [system] {
     link "LLVMCppBackendInfo"
     link "LLVMCellSPUCodeGen"
     link "LLVMCellSPUDesc"
-    link "LLVMCellSPUInfo"
     link "LLVMCBackend"
     link "LLVMBitWriter"
     link "LLVMX86Disassembler"
