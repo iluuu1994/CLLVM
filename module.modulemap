@@ -105,6 +105,6 @@ module CLLVM [system] {
     link "LLVMAlphaDesc"
     link "LLVMAlphaInfo"
     link "LLVMMC"
-    link "LLVMSuppo"
+    link "LLVMSupport"
     export *
 }
