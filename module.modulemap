@@ -103,7 +103,6 @@ module CLLVM [system] {
     link "LLVMTarget"
     link "LLVMCore"
     link "LLVMAlphaDesc"
-    link "LLVMAlphaInfo"
     link "LLVMMC"
     link "LLVMSupport"
     export *
