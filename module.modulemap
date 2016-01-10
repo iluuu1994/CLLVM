@@ -88,7 +88,6 @@ module CLLVM [system] {
     link "LLVMARMDesc"
     link "LLVMARMAsmPrinter"
     link "LLVMARMInfo"
-    link "LLVMArchive"
     link "LLVMBitReader"
     link "LLVMAlphaCodeGen"
     link "LLVMSelectionDAG"
