@@ -71,7 +71,6 @@ module CLLVM [system] {
     link "LLVMCBackend"
     link "LLVMCBackendInfo"
     link "LLVMBlackfinCodeGen"
-    link "LLVMBlackfinDesc"
     link "LLVMBitWriter"
     link "LLVMX86Disassembler"
     link "LLVMX86AsmParser"
