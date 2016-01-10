@@ -64,7 +64,6 @@ module CLLVM [system] {
     link "LLVMExecutionEngine"
     link "LLVMDebugInfo"
     link "LLVMCppBackendInfo"
-    link "LLVMCBackend"
     link "LLVMBitWriter"
     link "LLVMX86Disassembler"
     link "LLVMX86AsmParser"
