@@ -19,7 +19,7 @@ module CLLVM [system] {
     header "/usr/local/include/llvm-c/Transforms/Scalar.h"
     header "/usr/local/include/llvm-c/Transforms/Vectorize.h"
     header "/usr/local/include/llvm-c/lto.h"
-    "link LLVMCore"
+    link "LLVMCore"
     link "LLVMSupport"
     link "LLVMJIT"
     link "LLVMRuntimeDyld"
